@@ -1,4 +1,4 @@
-package com.example.Spotify.songcollection.song;
+package com.example.mongo;
 
 public enum GENRE {
     MANELE,

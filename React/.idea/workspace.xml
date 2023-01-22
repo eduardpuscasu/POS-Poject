@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddcb7394-d2f4-42a9-bd40-cb9dad207eeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projectreact/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/components/Appbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/components/Artist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/components/Song.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectreact/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/MongoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo/src/test/java/com/example/mongo/MongoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/GENRE.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/GENRE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/IPlayListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/IPlayListRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/PlayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/PlayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/PlayListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/PlayListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/PlayListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/PlayListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mongo/src/main/java/com/example/mongo/Song.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KgpzKXD3k72IFOQPXjeqK2WBm6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddcb7394-d2f4-42a9-bd40-cb9dad207eeb" name="Changes" comment="" />
+      <created>1674406341795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674406341795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
